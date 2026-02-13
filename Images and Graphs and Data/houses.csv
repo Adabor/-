@@ -1,0 +1,8 @@
+sq__ft,price,latitude,longitude,city,zip,type
+800,200000,38.5,-121.5,Sacramento,95814,Residential
+0,0,38.55,-121.45,Sacramento,95814,Residential
+1200,300000,38.6,-121.4,Citrus Heights,95610,Residential
+1500,400000,38.65,-121.35,Folsom,95630,Condo
+2000,500000,38.7,-121.3,Elk Grove,95758,Residential
+900,220000,38.52,-121.48,Sacramento,95814,Condo
+1800,450000,38.68,-121.32,Folsom,95630,Residential
